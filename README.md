@@ -24,9 +24,9 @@ project/
 └── .gitignore
 ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Asher-Eriba08/EAweather-forecast
 Navigate into the project folder:
-cd your-repo-name
+cd EAweather-forecast
 Install dependencies:
 pip install -r requirements.txt
 Run the app:
