@@ -36,5 +36,7 @@ http://127.0.0.1:5000
 🔑 API Used
 Weather data: https://wttr.in
 Time data: TimeZoneDB API
-
 This project was built as a beginner-friendly Flask application to practice working with APIs and backend development.
+
+<img width="1003" height="704" alt="Weather app" src="https://github.com/user-attachments/assets/dfdf979d-8f17-477b-94fa-3e798f50ff2a" />
+
